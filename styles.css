@@ -13,3 +13,8 @@ footer {
     text-align: center;
     border: solid black 2px
 }
+
+.card {
+    height: 522px;
+    width: 384px;
+}
