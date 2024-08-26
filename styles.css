@@ -19,9 +19,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #F4D04E;
 }
 
 .card {
     height: 522px;
     width: 384px;
+    background-color: #FFF;
 }
