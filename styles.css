@@ -44,3 +44,9 @@ img {
     height: 200px;
     border-radius: 12px;
 }
+
+.card .card-text{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+}
