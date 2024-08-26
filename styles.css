@@ -39,7 +39,7 @@ body {
     justify-content: space-around;
 }
 
-img {
+img .illustration {
     flex-basis: 336px;
     height: 200px;
     border-radius: 12px;
@@ -49,4 +49,5 @@ img {
     display: flex;
     flex-flow: column wrap;
     justify-content: space-around;
+    font-family: 'Figtree', Geneva, Verdana, sans-serif
 }
