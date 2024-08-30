@@ -44,7 +44,15 @@ img .illustration {
 }
 
 .learning {
-
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0px;
+    background-color: #F4D04E;
+    width: 82px;
+    text-align: center;
+    padding: 4px;
+    border-radius: 4px;
 }
 
 footer {
