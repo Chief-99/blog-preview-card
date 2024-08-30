@@ -78,6 +78,17 @@ h1.heading {
     color: #6B6B6B;
 }
 
+.avatar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: 'Figtree', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0px;
+}
+
 footer {
     position: absolute;
     width: 100%;
