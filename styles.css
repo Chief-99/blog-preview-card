@@ -27,13 +27,14 @@ body {
     padding: 22px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    align-items: space-around;
 }
 
-img .illustration {
+img.illustration {
     flex-basis: 336px;
     height: 200px;
     border-radius: 12px;
+    align-self: flex-start;
 }
 
 .card .card-text{
@@ -59,7 +60,13 @@ img .illustration {
     font-size: 14px;
     line-height: 150%;
     letter-spacing: 0px;
-    
+}
+
+h1.heading {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0px;
 }
 
 footer {
