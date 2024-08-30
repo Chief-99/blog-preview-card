@@ -27,7 +27,7 @@ body {
     padding: 22px;
     display: flex;
     flex-wrap: wrap;
-    align-items: space-around;
+
 }
 
 img.illustration {
@@ -37,11 +37,14 @@ img.illustration {
     align-self: flex-start;
 }
 
-.card .card-text{
+.card-text{
     display: flex;
     flex-flow: column wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     font-family: 'Figtree', Geneva, Verdana, sans-serif;
+    align-self: flex-start;
+    border: black solid 2px;
+    height: 200px;
 }
 
 .learning {
