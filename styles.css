@@ -27,6 +27,7 @@ body {
     border: #111 solid 1px;
     border-radius: 20px;
     padding: 22px;
+    box-shadow: 8px 8px #111;
 }
 
 img.illustration {
