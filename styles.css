@@ -19,6 +19,7 @@ body {
     font-family: 'Figtree', Geneva, Verdana, sans-serif;
 }
 
+
 .card {                                                     /* * content   */
     max-width: 24rem;
     background-color: #FFF;
@@ -44,13 +45,14 @@ img.illustration {
     text-align: center;
     padding: 4px;
     border-radius: 4px;
-    margin-top: 24px;
+    margin: 24px 0px 14px;
 }
 
 .published {
     font-size: 14px;
     line-height: 150%;
     letter-spacing: 0px;
+    margin: 12px 0px;
 }
 
 .heading {
@@ -58,6 +60,7 @@ img.illustration {
     font-size: 24px;
     line-height: 150%;
     letter-spacing: 0px;
+    margin: 0px 0px 16px;
 }
 
 .content {
@@ -71,11 +74,11 @@ img.illustration {
     display: flex;
     align-items: center;
     gap: 12px;
-    font-family: 'Figtree', Geneva, Verdana, sans-serif;
     font-weight: 800;
     font-size: 14px;
     line-height: 150%;
     letter-spacing: 0px;
+    margin: 20px 0px 0px;
 }
 
 footer {
@@ -87,5 +90,5 @@ footer {
     justify-content: center;
     align-items: center;
     gap: 2px;
-    font-family: 'Figtree', Geneva, Verdana, sans-serif;
+    
 }
