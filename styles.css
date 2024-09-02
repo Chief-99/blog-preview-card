@@ -24,10 +24,6 @@ body {
     border: #111 solid 1px;
     border-radius: 20px;
     padding: 22px;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 24px;
-
 }
 
 img.illustration {
@@ -38,9 +34,6 @@ img.illustration {
 }
 
 .card-text{
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: space-between;
     font-family: 'Figtree', Geneva, Verdana, sans-serif;
     align-self: flex-start;
     height: 194px;
@@ -56,6 +49,7 @@ img.illustration {
     text-align: center;
     padding: 4px;
     border-radius: 4px;
+    margin-top: 24px;
 }
 
 .published {
