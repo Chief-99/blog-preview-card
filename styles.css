@@ -16,6 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #F4D04E;
+    font-family: 'Figtree', Geneva, Verdana, sans-serif;
 }
 
 .card {                                                     /* * content   */
@@ -31,12 +32,6 @@ img.illustration {
     height: 200px;
     border-radius: 12px;
     align-self: flex-start;
-}
-
-.card-text{
-    font-family: 'Figtree', Geneva, Verdana, sans-serif;
-    align-self: flex-start;
-    height: 194px;
 }
 
 .learning {
