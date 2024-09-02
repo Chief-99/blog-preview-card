@@ -29,10 +29,7 @@ body {
 }
 
 img.illustration {
-    flex-basis: 336px;
-    height: 200px;
     border-radius: 12px;
-    align-self: flex-start;
 }
 
 .learning {
