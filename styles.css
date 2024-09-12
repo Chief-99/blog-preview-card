@@ -19,13 +19,13 @@ body {
     background-color: #FFF;
     border: #111 solid 1px;
     border-radius: 20px;
-    padding: 22px;
-    box-shadow: 8px 8px #111;
+    padding: 1.375rem;
+    box-shadow: 0.5rem 0.5rem #111;
     transition-duration: 100ms;
 }
 
 .card:hover {
-    box-shadow: 16px 16px #111;
+    box-shadow: 1rem 1rem #111;
     cursor: pointer;
 }
 
@@ -35,60 +35,56 @@ body {
 
 img.illustration {
     border-radius: 12px;
+    width: auto;
 }
 
 .learning {
     font-weight: 800;
     font-size: 0.875rem;
     line-height: 150%;
-    letter-spacing: 0px;
     background-color: #F4D04E;
     width: fit-content;
     text-align: center;
-    padding: 4px;
+    padding: 0.25rem 0.75rem;
     border-radius: 4px;
-    margin: 24px 0px 14px;
+    margin: 1.5rem 0 0.875rem;
 }
 
 .published {
     font-size: 0.875rem;
     line-height: 150%;
-    letter-spacing: 0px;
-    margin: 12px 0px;
+    margin: 0.75rem 0;
 }
 
 .heading {
     font-weight: 800;
     font-size: 1.5rem;
     line-height: 150%;
-    letter-spacing: 0px;
-    margin: 0px 0px 16px;
+    margin: 0 0 1rem;
     transition-duration: 100ms;
 }
 
 .content {
     font-size: 1rem;
     line-height: 150%;
-    letter-spacing: 0px;
     color: #6B6B6B;
 }
 
 .avatar {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 0.75rem;
     font-weight: 800;
     font-size: 0.875rem;
     line-height: 150%;
-    letter-spacing: 0px;
-    margin: 20px 0px 0px;
+    margin: 1.25rem 0 0;
 }
 
 footer {
     position: fixed;
     max-width: 100%;
     bottom: 0;
-    padding: 20px;
+    padding: 1.25rem;
     display: flex;
     justify-content: center;
     align-items: center;
