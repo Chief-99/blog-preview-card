@@ -39,7 +39,7 @@ img.illustration {
 
 .learning {
     font-weight: 800;
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 150%;
     letter-spacing: 0px;
     background-color: #F4D04E;
@@ -51,7 +51,7 @@ img.illustration {
 }
 
 .published {
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 150%;
     letter-spacing: 0px;
     margin: 12px 0px;
@@ -59,7 +59,7 @@ img.illustration {
 
 .heading {
     font-weight: 800;
-    font-size: 24px;
+    font-size: 1.5rem;
     line-height: 150%;
     letter-spacing: 0px;
     margin: 0px 0px 16px;
@@ -67,7 +67,7 @@ img.illustration {
 }
 
 .content {
-    font-size: 16px;
+    font-size: 1rem;
     line-height: 150%;
     letter-spacing: 0px;
     color: #6B6B6B;
@@ -78,7 +78,7 @@ img.illustration {
     align-items: center;
     gap: 12px;
     font-weight: 800;
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 150%;
     letter-spacing: 0px;
     margin: 20px 0px 0px;
